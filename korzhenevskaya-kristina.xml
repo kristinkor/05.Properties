@@ -1,0 +1,26 @@
+<!--
+
+    Create a programs that will answer the following questions.  
+    Create 6 files (P01.py,  P02.py,  P03.py, P04.py, P05.py, and P06.py)
+
+    1.  How many houses cost more than 124,000?
+    2.  How much money(income) was made in NY, that net income data is located inside the property tag
+        [<property>net income</property>]?
+    3.  The data represents is from a realestate management company. The company makes
+        3% of the cost (cost="33838"). What is the total cost?  
+
+    4.  Count the number of houses that make more 15% (.15) see [percentage="0.12"]
+    5.  Which company id made the most net income [<property>net income</property>]?   
+    6.  Which company id made the least net income [<property>net income</property>]?   
+
+-->
+
+<questions>
+    <name>korzhenevskaya, kristina</name>
+    <question no="1">487</question>
+    <question no="2">36356.700000000004</question>
+    <question no="3">3726060.0</question>
+    <question no="4">446</question>
+    <question no="5">H00577</question>
+    <question no="6">H00828</question>
+</questions>
